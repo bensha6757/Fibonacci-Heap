@@ -1,5 +1,5 @@
 # Fibonacci-Heap
 
-a Fibonacci Heap implementation in the course of data structures
+a Fibonacci Heap implementation built during the course of Data Structures
 
-details on the functions can be found in the file called "Implementation_Description.docx"
+Details on the functions can be found in the file called "Implementation_Description.docx" (in hebrew)
